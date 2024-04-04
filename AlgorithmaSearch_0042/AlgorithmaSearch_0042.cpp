@@ -29,5 +29,18 @@ void input()
 	}
 }
 
+void linearsearch()
+{
+
+	char ch;
+	int ctr;  //Number of comparisons
+	int item;
+
+	do
+	{
+
+	}
+}
+
 
 
